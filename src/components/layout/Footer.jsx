@@ -105,7 +105,7 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-gray-500">
           <span>© {year} Kidland School, Kusunti, Lalitpur. All rights reserved.</span>
-          <span className="flex items-center gap-1">Made with <FaHeart className="text-red-400 mx-0.5" size={10} /> in Nepal</span>
+          <span className="flex items-center gap-1">Develop by <FaHeart className="text-red-400 mx-0.5" size={10} /> BR Codex Pvt Ltd</span>
           <div className="flex gap-4">
             <Link to="#" className="hover:text-primary-300 transition-colors">Privacy Policy</Link>
             <Link to="/admin/login" className="hover:text-primary-300 transition-colors">Admin Login</Link>
